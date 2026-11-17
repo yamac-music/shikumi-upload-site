@@ -1,0 +1,8 @@
+body { margin: 0; background: #fff; color: #1a1a1a; font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; line-height: 1.8; }
+main, header, footer { max-width: 720px; margin: 0 auto; padding: 0 16px; }
+header { padding-top: 40px; }
+h1 { font-size: 1.6rem; margin: 0 0 8px; }
+h2 { font-size: 1.15rem; margin: 32px 0 8px; }
+footer { padding: 40px 16px; color: #666; font-size: 0.9rem; }
+a { color: #0b57d0; }
+@media (prefers-color-scheme: dark) { body { background: #121212; color: #e8e8e8; } a { color: #8ab4f8; } footer { color: #aaa; } }
